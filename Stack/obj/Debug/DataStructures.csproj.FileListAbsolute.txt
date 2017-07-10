@@ -1,0 +1,5 @@
+D:\Projects\ConsoleApp2\Stack\bin\Debug\Stack.dll
+D:\Projects\ConsoleApp2\Stack\bin\Debug\Stack.pdb
+D:\Projects\ConsoleApp2\Stack\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApp2\Stack\obj\Debug\Stack.dll
+D:\Projects\ConsoleApp2\Stack\obj\Debug\Stack.pdb

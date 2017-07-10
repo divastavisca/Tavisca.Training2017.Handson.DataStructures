@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDataStructures", "Stack\BasicDataStructures.csproj", "{4C4ED6AC-63BD-4E7F-A48E-1F2E44154B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackWithQueues", "ClassLibrary2\StackWithQueues.csproj", "{25D143C8-E18F-4EF8-818C-70B412673B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingWithStack", "SortingWithStack\SortingWithStack.csproj", "{BBC924BF-6BE8-4114-89FE-A4875C3486F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackFrom2Queues", "StackFrom2Queues\StackFrom2Queues.csproj", "{F78664F6-FC5F-47CC-B390-04D19E1BDA1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowTrailingZeroesInAFactorial", "C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\KnowTrailingZeroesInAFactorial\KnowTrailingZeroesInAFactorial.csproj", "{6D76DB61-03D0-4FA8-AE24-84DEFA6B4425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrailingZeroes", "C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\TrailingZeroes\TrailingZeroes.csproj", "{5655BA6D-E1F9-48CC-99DD-E082EA000854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleStackConsole", "SimpleStackConsole\SimpleStackConsole.csproj", "{C7996A1E-9C15-44AB-8E78-E92D7016C4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleQueueConsole", "SimpleQueueConsole\SimpleQueueConsole.csproj", "{EBC4EB0B-A73F-46F2-8D6D-456754F1CC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueWithStacks", "QueueWithStacks\QueueWithStacks.csproj", "{75C2BBFD-D16D-4520-96C6-B005E48555D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueFromTwoStacksConsole", "QueueFromTwoStacksConsole\QueueFromTwoStacksConsole.csproj", "{46B91FD6-9091-4007-A71D-88C31516D0AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4ED6AC-63BD-4E7F-A48E-1F2E44154B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4ED6AC-63BD-4E7F-A48E-1F2E44154B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4ED6AC-63BD-4E7F-A48E-1F2E44154B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4ED6AC-63BD-4E7F-A48E-1F2E44154B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D143C8-E18F-4EF8-818C-70B412673B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D143C8-E18F-4EF8-818C-70B412673B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D143C8-E18F-4EF8-818C-70B412673B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D143C8-E18F-4EF8-818C-70B412673B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC924BF-6BE8-4114-89FE-A4875C3486F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC924BF-6BE8-4114-89FE-A4875C3486F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC924BF-6BE8-4114-89FE-A4875C3486F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC924BF-6BE8-4114-89FE-A4875C3486F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78664F6-FC5F-47CC-B390-04D19E1BDA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78664F6-FC5F-47CC-B390-04D19E1BDA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78664F6-FC5F-47CC-B390-04D19E1BDA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78664F6-FC5F-47CC-B390-04D19E1BDA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D76DB61-03D0-4FA8-AE24-84DEFA6B4425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D76DB61-03D0-4FA8-AE24-84DEFA6B4425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D76DB61-03D0-4FA8-AE24-84DEFA6B4425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D76DB61-03D0-4FA8-AE24-84DEFA6B4425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5655BA6D-E1F9-48CC-99DD-E082EA000854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5655BA6D-E1F9-48CC-99DD-E082EA000854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5655BA6D-E1F9-48CC-99DD-E082EA000854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5655BA6D-E1F9-48CC-99DD-E082EA000854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7996A1E-9C15-44AB-8E78-E92D7016C4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7996A1E-9C15-44AB-8E78-E92D7016C4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7996A1E-9C15-44AB-8E78-E92D7016C4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7996A1E-9C15-44AB-8E78-E92D7016C4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC4EB0B-A73F-46F2-8D6D-456754F1CC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC4EB0B-A73F-46F2-8D6D-456754F1CC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC4EB0B-A73F-46F2-8D6D-456754F1CC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC4EB0B-A73F-46F2-8D6D-456754F1CC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C2BBFD-D16D-4520-96C6-B005E48555D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C2BBFD-D16D-4520-96C6-B005E48555D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C2BBFD-D16D-4520-96C6-B005E48555D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C2BBFD-D16D-4520-96C6-B005E48555D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B91FD6-9091-4007-A71D-88C31516D0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B91FD6-9091-4007-A71D-88C31516D0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B91FD6-9091-4007-A71D-88C31516D0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B91FD6-9091-4007-A71D-88C31516D0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Projects\ConsoleApp2\StackFrom2Queues\bin\Debug\StackFrom2Queues.exe.config
+D:\Projects\ConsoleApp2\StackFrom2Queues\bin\Debug\StackFrom2Queues.exe
+D:\Projects\ConsoleApp2\StackFrom2Queues\bin\Debug\StackFrom2Queues.pdb
+D:\Projects\ConsoleApp2\StackFrom2Queues\bin\Debug\ClassLibrary2.dll
+D:\Projects\ConsoleApp2\StackFrom2Queues\bin\Debug\Stack.dll
+D:\Projects\ConsoleApp2\StackFrom2Queues\bin\Debug\ClassLibrary2.pdb
+D:\Projects\ConsoleApp2\StackFrom2Queues\bin\Debug\Stack.pdb
+D:\Projects\ConsoleApp2\StackFrom2Queues\obj\Debug\StackFrom2Queues.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApp2\StackFrom2Queues\obj\Debug\StackFrom2Queues.exe
+D:\Projects\ConsoleApp2\StackFrom2Queues\obj\Debug\StackFrom2Queues.pdb

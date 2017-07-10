@@ -1,0 +1,8 @@
+D:\Projects\ConsoleApp2\SortingWithStack\bin\Debug\SortingWithStack.exe.config
+D:\Projects\ConsoleApp2\SortingWithStack\bin\Debug\SortingWithStack.exe
+D:\Projects\ConsoleApp2\SortingWithStack\bin\Debug\SortingWithStack.pdb
+D:\Projects\ConsoleApp2\SortingWithStack\bin\Debug\Stack.dll
+D:\Projects\ConsoleApp2\SortingWithStack\bin\Debug\Stack.pdb
+D:\Projects\ConsoleApp2\SortingWithStack\obj\Debug\SortingWithStack.exe
+D:\Projects\ConsoleApp2\SortingWithStack\obj\Debug\SortingWithStack.pdb
+D:\Projects\ConsoleApp2\SortingWithStack\obj\Debug\SortingWithStack.csprojResolveAssemblyReference.cache

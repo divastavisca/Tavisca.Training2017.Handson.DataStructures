@@ -1,0 +1,5 @@
+D:\Projects\ConsoleApp2\Queue\bin\Debug\Queue.dll
+D:\Projects\ConsoleApp2\Queue\bin\Debug\Queue.pdb
+D:\Projects\ConsoleApp2\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApp2\Queue\obj\Debug\Queue.dll
+D:\Projects\ConsoleApp2\Queue\obj\Debug\Queue.pdb

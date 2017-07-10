@@ -1,0 +1,7 @@
+D:\Projects\ConsoleApp2\ClassLibrary2\obj\Debug\StackWithQueues.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApp2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\Projects\ConsoleApp2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\Projects\ConsoleApp2\ClassLibrary2\bin\Debug\Stack.dll
+D:\Projects\ConsoleApp2\ClassLibrary2\bin\Debug\Stack.pdb
+D:\Projects\ConsoleApp2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\Projects\ConsoleApp2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
