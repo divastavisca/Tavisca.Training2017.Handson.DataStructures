@@ -18,6 +18,11 @@ namespace BasicDS
 
         private int front, rear, size_of_queue;
 
+        /// <summary>
+        /// Inserts an element to the queue instance
+        /// </summary>
+        /// <param name="Element"></param>
+        /// <returns></returns>
         public bool EnQueue(int Element)
         {
             if (rear == -1)
@@ -78,6 +83,9 @@ namespace BasicDS
             }
         }
 
+        /// <summary>
+        /// Deletes an element from the queue instance
+        /// </summary>
         public void DeQueue()
         {
             if (front == rear)
@@ -103,6 +111,9 @@ namespace BasicDS
             }
         }
 
+        /// <summary>
+        /// Displays the Queue
+        /// </summary>
         public void Display()
         {
             if (front == rear)
@@ -140,6 +151,11 @@ namespace BasicDS
                     Console.Write(queue_array[i] + " ");
         }
 
+        /// <summary>
+        /// Deletes an element from the queue and returns its value in the Removed out parameter
+        /// </summary>
+        /// <param name="Removed"></param>
+        /// <returns></returns>
         public bool DeQueue(out int Removed)
         {
             if (front == rear)
@@ -183,11 +199,19 @@ namespace BasicDS
             return false;
         }
 
+        /// <summary>
+        /// Returns true if their is a single element left in the queue
+        /// </summary>
+        /// <returns></returns>
         public bool IsLast()
         {
             return (front == rear && rear > -1);
         }
 
+        /// <summary>
+        /// Returns true if the queue is empty
+        /// </summary>
+        /// <returns></returns>
         public bool IsEmpty()
         {
             if ((front == -1))
@@ -199,6 +223,10 @@ namespace BasicDS
 
         }
 
+        /// <summary>
+        /// Constructs an instance of the queue
+        /// </summary>
+        /// <param name="SizeOfQueue"></param>
         public Queue(int SizeOfQueue)
         {
             front = rear = -1;
