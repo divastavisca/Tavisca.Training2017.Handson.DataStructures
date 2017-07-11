@@ -1,0 +1,6 @@
+D:\Projects\ClockPositionsOnAGivenAngel\ClockPositionsOnAGivenAngel\bin\Debug\ClockPositionsOnAGivenAngel.exe.config
+D:\Projects\ClockPositionsOnAGivenAngel\ClockPositionsOnAGivenAngel\bin\Debug\ClockPositionsOnAGivenAngel.exe
+D:\Projects\ClockPositionsOnAGivenAngel\ClockPositionsOnAGivenAngel\bin\Debug\ClockPositionsOnAGivenAngel.pdb
+D:\Projects\ClockPositionsOnAGivenAngel\ClockPositionsOnAGivenAngel\obj\Debug\ClockPositionsOnAGivenAngel.csprojResolveAssemblyReference.cache
+D:\Projects\ClockPositionsOnAGivenAngel\ClockPositionsOnAGivenAngel\obj\Debug\ClockPositionsOnAGivenAngel.exe
+D:\Projects\ClockPositionsOnAGivenAngel\ClockPositionsOnAGivenAngel\obj\Debug\ClockPositionsOnAGivenAngel.pdb
