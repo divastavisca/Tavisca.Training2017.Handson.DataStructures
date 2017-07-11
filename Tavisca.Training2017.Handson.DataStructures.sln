@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueWithStacks", "QueueWit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueFromTwoStacksConsole", "QueueFromTwoStacksConsole\QueueFromTwoStacksConsole.csproj", "{46B91FD6-9091-4007-A71D-88C31516D0AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockPositionsOnAGivenAngel", "..\ClockPositionsOnAGivenAngel\ClockPositionsOnAGivenAngel\ClockPositionsOnAGivenAngel.csproj", "{F4592C92-A001-4F58-9A5B-DBE39BE3B640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{46B91FD6-9091-4007-A71D-88C31516D0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46B91FD6-9091-4007-A71D-88C31516D0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46B91FD6-9091-4007-A71D-88C31516D0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4592C92-A001-4F58-9A5B-DBE39BE3B640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4592C92-A001-4F58-9A5B-DBE39BE3B640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4592C92-A001-4F58-9A5B-DBE39BE3B640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4592C92-A001-4F58-9A5B-DBE39BE3B640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
