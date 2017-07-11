@@ -11,6 +11,6 @@ D:\Projects\ConsoleApp2\SimpleStackConsole\bin\Debug\ConsoleApp2.exe
 D:\Projects\ConsoleApp2\SimpleStackConsole\bin\Debug\ConsoleApp2.pdb
 D:\Projects\ConsoleApp2\SimpleStackConsole\bin\Debug\Stack.dll
 D:\Projects\ConsoleApp2\SimpleStackConsole\bin\Debug\Stack.pdb
-D:\Projects\ConsoleApp2\SimpleStackConsole\obj\Debug\SimpleStackConsole.csprojResolveAssemblyReference.cache
 D:\Projects\ConsoleApp2\SimpleStackConsole\obj\Debug\ConsoleApp2.exe
 D:\Projects\ConsoleApp2\SimpleStackConsole\obj\Debug\ConsoleApp2.pdb
+D:\Projects\ConsoleApp2\SimpleStackConsole\obj\Debug\SimpleStackConsole.csprojResolveAssemblyReference.cache

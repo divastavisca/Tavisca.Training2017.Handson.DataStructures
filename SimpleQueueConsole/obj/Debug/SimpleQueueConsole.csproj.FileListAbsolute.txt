@@ -11,6 +11,6 @@ D:\Projects\ConsoleApp2\SimpleQueueConsole\bin\Debug\ConsoleApp1.exe
 D:\Projects\ConsoleApp2\SimpleQueueConsole\bin\Debug\ConsoleApp1.pdb
 D:\Projects\ConsoleApp2\SimpleQueueConsole\bin\Debug\Stack.dll
 D:\Projects\ConsoleApp2\SimpleQueueConsole\bin\Debug\Stack.pdb
-D:\Projects\ConsoleApp2\SimpleQueueConsole\obj\Debug\SimpleQueueConsole.csprojResolveAssemblyReference.cache
 D:\Projects\ConsoleApp2\SimpleQueueConsole\obj\Debug\ConsoleApp1.exe
 D:\Projects\ConsoleApp2\SimpleQueueConsole\obj\Debug\ConsoleApp1.pdb
+D:\Projects\ConsoleApp2\SimpleQueueConsole\obj\Debug\SimpleQueueConsole.csprojResolveAssemblyReference.cache

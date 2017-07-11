@@ -1,0 +1,16 @@
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\KnowTrailingZeroesInAFactorial\bin\Debug\KnowTrailingZeroesInAFactorial.exe.config
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\KnowTrailingZeroesInAFactorial\bin\Debug\KnowTrailingZeroesInAFactorial.exe
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\KnowTrailingZeroesInAFactorial\bin\Debug\KnowTrailingZeroesInAFactorial.pdb
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\KnowTrailingZeroesInAFactorial\bin\Debug\TrailingZeroes.dll
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\KnowTrailingZeroesInAFactorial\bin\Debug\TrailingZeroes.pdb
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\KnowTrailingZeroesInAFactorial\obj\Debug\KnowTrailingZeroesInAFactorial.csprojResolveAssemblyReference.cache
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\KnowTrailingZeroesInAFactorial\obj\Debug\KnowTrailingZeroesInAFactorial.exe
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\KnowTrailingZeroesInAFactorial\obj\Debug\KnowTrailingZeroesInAFactorial.pdb
+D:\Projects\ConsoleApp2\KnowTrailingZeroesInAFactorial\bin\Debug\KnowTrailingZeroesInAFactorial.exe.config
+D:\Projects\ConsoleApp2\KnowTrailingZeroesInAFactorial\bin\Debug\KnowTrailingZeroesInAFactorial.exe
+D:\Projects\ConsoleApp2\KnowTrailingZeroesInAFactorial\bin\Debug\KnowTrailingZeroesInAFactorial.pdb
+D:\Projects\ConsoleApp2\KnowTrailingZeroesInAFactorial\bin\Debug\TrailingZeroes.dll
+D:\Projects\ConsoleApp2\KnowTrailingZeroesInAFactorial\bin\Debug\TrailingZeroes.pdb
+D:\Projects\ConsoleApp2\KnowTrailingZeroesInAFactorial\obj\Debug\KnowTrailingZeroesInAFactorial.csprojResolveAssemblyReference.cache
+D:\Projects\ConsoleApp2\KnowTrailingZeroesInAFactorial\obj\Debug\KnowTrailingZeroesInAFactorial.exe
+D:\Projects\ConsoleApp2\KnowTrailingZeroesInAFactorial\obj\Debug\KnowTrailingZeroesInAFactorial.pdb

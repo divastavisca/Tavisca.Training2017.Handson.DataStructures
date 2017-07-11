@@ -224,7 +224,7 @@ namespace BasicDS
         }
 
         /// <summary>
-        /// Constructs an instance of the queue
+        /// Constructs an instance of the queue]
         /// </summary>
         /// <param name="SizeOfQueue"></param>
         public Queue(int SizeOfQueue)

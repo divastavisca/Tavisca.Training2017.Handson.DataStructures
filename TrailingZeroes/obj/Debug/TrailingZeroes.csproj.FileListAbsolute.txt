@@ -1,0 +1,8 @@
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\TrailingZeroes\bin\Debug\TrailingZeroes.dll
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\TrailingZeroes\bin\Debug\TrailingZeroes.pdb
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\TrailingZeroes\obj\Debug\TrailingZeroes.dll
+C:\Users\dagarwal\Documents\Visual Studio 2017\Projects\Tavisca.Codejam.TrailingZeroes\Tavisca.Training2017.Codejam\TrailingZeroes\obj\Debug\TrailingZeroes.pdb
+D:\Projects\ConsoleApp2\TrailingZeroes\bin\Debug\TrailingZeroes.dll
+D:\Projects\ConsoleApp2\TrailingZeroes\bin\Debug\TrailingZeroes.pdb
+D:\Projects\ConsoleApp2\TrailingZeroes\obj\Debug\TrailingZeroes.dll
+D:\Projects\ConsoleApp2\TrailingZeroes\obj\Debug\TrailingZeroes.pdb
